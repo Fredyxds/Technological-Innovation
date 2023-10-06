@@ -1,0 +1,310 @@
+
+#mi-titulo {
+    text-align: center; /* Centra el texto */
+    font-size: 40px; 
+}
+#mi-logo{
+    text-align: center;
+    font-size: medium;
+}
+#mi-giro{
+text-align: center;
+font-size: 30px;
+
+}
+#mi-empresa{
+text-align: center;
+font-family: "Roboto", Sans-serif;
+font-size: 35px;
+color: #206EB3;
+}
+#mi-somos{
+    text-align: center;
+    font-family:"Roboto", Sans-serif ;
+    font-size: 25px;
+}
+#mi-servicio{
+    text-align: center;
+font-family: "Roboto", Sans-serif;
+font-size: 35px;
+color: #206EB3;
+}   
+
+#servicios{
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 25px;
+
+}
+#servicio-1{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-2{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-3{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-4{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-5{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-6{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-7{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-8{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-9{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-10{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+}
+#servicio-11{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-12{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-13{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-14{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-15{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-16{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+#servicio-17{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-18{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-19{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-20{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-21{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-22{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-23{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-24{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-25{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-26{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-27{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-28{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-29{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+#servicio-30{
+
+    text-align:left ;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+
+}
+
+
+#contacto {
+    background-color: #0b6aa9; 
+    padding: 20px; 
+    border: 1px solid #ddd;
+}
+
+#contacto h2 {
+    color: #000000; 
+}
+
+#contacto p {
+    font-size: 16px; 
+    line-height: 1.5; 
+}
+
+#contacto ul {
+    list-style: none; 
+    padding: 0; 
+}
+
+#contacto li {
+    margin-bottom: 10px; 
+}
+
+#contacto a {
+    text-decoration: none; 
+    color: #000000; 
+    font-weight: bold; 
+}
+
+#contacto a:hover {
+    text-decoration: underline; 
+}
+
+footer {
+    background-color: #ffffff; /* Color de fondo del pie de página */
+    color: #878787; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto en el centro */
+}
+
+footer p {
+    font-size: 14px; /* Tamaño de fuente del texto del pie de página */
+}
+
+
+
+
